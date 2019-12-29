@@ -6,4 +6,4 @@ All views are fully dynamic and are creating from javascript.
 
 # Live demo
 
-You can explore site from [here](https://view-from-js.netlify.com)
+You can explore site from [here](https://dynamic-views-with-vanilla-js.netlify.com)
